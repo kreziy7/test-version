@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "title": "To'y marosimi",
+      "description": "Eng muhim kuningizni professional darajada yozib olamiz",
+      "image": "https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 2,
+      "title": "Osh marosimi",
+      "description": "An'anaviy osh marosimlarini professional yondashuvda",
+      "image": "https://images.pexels.com/photos/3171837/pexels-photo-3171837.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 3,
+      "title": "Bolajonlar tadbiri",
+      "description": "Bolalarning muhim kunlarini xotirada saqlang",
+      "image": "https://images.pexels.com/photos/1267338/pexels-photo-1267338.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 4,
+      "title": "Tug'ilgan kun",
+      "description": "Tug'ilgan kun tadbirlarini professional yozuvda",
+      "image": "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 5,
+      "title": "Love Story",
+      "description": "Sevgi hikoyangizni professional video shaklida",
+      "image": "https://images.pexels.com/photos/1024975/pexels-photo-1024975.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 6,
+      "title": "Merry Me",
+      "description": "Turmush qurishga taklif qilish paytini unutilmas qiling",
+      "image": "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 7,
+      "title": "Fotiha to'yi",
+      "description": "Muqaddas marosimlarni hurmat bilan yozamiz",
+      "image": "https://images.pexels.com/photos/3171837/pexels-photo-3171837.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 8,
+      "title": "Kelin salom",
+      "description": "Kelin salom marosimlarini an'anaviy tarzda",
+      "image": "https://images.pexels.com/photos/1024996/pexels-photo-1024996.jpeg?auto=compress&cs=tinysrgb&w=800"
+    }
+  ]

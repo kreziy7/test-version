@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Video montaj",
+      "description": "Professional video editing va post-production xizmatlari",
+      "price": "100,000 so'm dan",
+      "image": "https://images.pexels.com/photos/3945313/pexels-photo-3945313.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "features": ["4K quality", "Color grading", "Sound design", "Motion graphics"]
+    },
+    {
+      "id": 2,
+      "title": "Fotosessiya",
+      "description": "Professional fotosessiya xizmatlari barcha turdagi tadbirlar uchun",
+      "price": "200,000 so'm dan",
+      "image": "https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "features": ["HD quality", "Professional equipment", "Editing included", "Same day delivery"]
+    },
+    {
+      "id": 3,
+      "title": "Reklama va SMM",
+      "description": "Ijtimoiy tarmoqlarda reklama va kontent yaratish",
+      "price": "150,000 so'm dan",
+      "image": "https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "features": ["Content creation", "Social media management", "Analytics", "Brand strategy"]
+    }
+  ]

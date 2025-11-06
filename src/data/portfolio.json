@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "To'y marosimi - Dilnoza & Jasur",
+      "category": "Video",
+      "image": "https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "type": "video"
+    },
+    {
+      "id": 2,
+      "title": "Oilaviy fotosessiya",
+      "category": "Foto",
+      "image": "https://images.pexels.com/photos/1128318/pexels-photo-1128318.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "type": "image"
+    },
+    {
+      "id": 3,
+      "title": "Biznes reklama",
+      "category": "Instagram",
+      "image": "https://images.pexels.com/photos/3153198/pexels-photo-3153198.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "type": "video"
+    },
+    {
+      "id": 4,
+      "title": "Love Story - Kamila & Otabek",
+      "category": "Video",
+      "image": "https://images.pexels.com/photos/1024975/pexels-photo-1024975.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "type": "video"
+    },
+    {
+      "id": 5,
+      "title": "Korporativ tadbir",
+      "category": "Foto",
+      "image": "https://images.pexels.com/photos/2608517/pexels-photo-2608517.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "type": "image"
+    },
+    {
+      "id": 6,
+      "title": "Instagram Reels",
+      "category": "Instagram",
+      "image": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "type": "video"
+    }
+  ]
